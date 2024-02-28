@@ -1,46 +1,50 @@
-# Getting Started with Create React App
+# ePlay
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Bem-vindo ao ePlay, sua loja virtual exclusiva para explorar e adquirir os melhores jogos para PC, PS4 e Xbox! Este projeto foi desenvolvido como parte do curso de Desenvolvedor Fullstack da EBAC (Escola Britânica de Artes Criativas), com o intuito de proporcionar uma experiência completa aos amantes de jogos que desejam encontrar e comprar seus títulos favoritos de forma rápida e conveniente. Prepare-se para uma jornada emocionante no mundo dos games!
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+**O ePlay está no ar! Visite a loja virtual [aqui](https://eplay-one.vercel.app/).**
 
-### `npm start`
+---
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Recursos e Aprendizados
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+Durante o desenvolvimento do projeto ePlay como parte do curso de Desenvolvedor Fullstack da EBAC, foram exploradas diversas tecnologias e conceitos importantes, incluindo:
 
-### `npm test`
+- **Integração de APIs**: Utilizamos APIs para obter e exibir dinamicamente informações sobre jogos, plataformas e preços, demonstrando habilidades de integração com serviços externos.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- **Gerenciamento de Estado com Redux**: Implementamos o Redux para gerenciar o estado da aplicação de forma eficiente, aprendendo a centralizar e controlar o fluxo de dados em um aplicativo React.
 
-### `npm run build`
+- **Formulários Interativos com Formik**: Utilizamos o Formik para simplificar a criação e validação de formulários, proporcionando uma experiência de compra mais interativa e amigável.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- **Estilização com Styled Components**: Aprendemos a utilizar Styled Components para estilizar os componentes de forma modular e escalável, garantindo uma interface de usuário atraente e consistente em toda a loja virtual.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- **TypeScript para Tipagem Estática**: Integrando TypeScript ao projeto, exploramos os benefícios da tipagem estática para garantir a robustez e segurança do código, especialmente em um ambiente de desenvolvimento complexo como uma loja virtual.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Estes recursos e aprendizados foram fundamentais para a construção de uma loja virtual funcional e responsiva, além de proporcionarem uma sólida base de conhecimento em desenvolvimento web fullstack.
 
-### `npm run eject`
+## Tecnologias Utilizadas
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+- **React**: Utilizamos o React para criar uma interface de usuário moderna e responsiva, garantindo uma experiência de compra imersiva para os usuários.
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- **TypeScript**: A integração do TypeScript oferece uma base sólida de tipagem estática, melhorando a manutenção do código e reduzindo erros durante o desenvolvimento.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+- **React Redux**: O React Redux é utilizado para gerenciar o estado da aplicação de forma eficiente, proporcionando uma experiência de usuário mais fluida e responsiva.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+- **Formik**: Usamos o Formik para simplificar o processo de criação e validação de formulários, garantindo uma experiência de checkout livre de erros.
 
-## Learn More
+- **React Spinners**: Incorporamos o React Spinners para fornecer feedback visual durante o carregamento de dados, melhorando a experiência do usuário.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- **Styled Components**: Com Styled Components, conseguimos criar estilos de forma modular e escalável, garantindo uma aparência visual atraente e consistente em toda a loja virtual.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Como Abrir o Projeto Localmente
+
+1. Clone este repositório em sua máquina local.
+2. Instale as dependências usando `npm install`.
+3. Inicie o servidor de desenvolvimento com `npm start`.
+4. Abra seu navegador favorito e acesse `http://localhost:3000`.
+
+Esperamos que você se junte a nós nesta jornada pelos universos virtuais dos jogos e desfrute de uma experiência verdadeiramente excepcional com o ePlay! 🎮🚀
+
+---
