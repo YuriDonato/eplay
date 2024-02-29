@@ -1,6 +1,6 @@
 # ePlay
 
-Bem-vindo ao ePlay, sua loja virtual exclusiva para explorar e adquirir os melhores jogos para PC, PS4 e Xbox! Este projeto foi desenvolvido como parte do curso de Desenvolvedor Fullstack da EBAC (Escola Britânica de Artes Criativas), com o intuito de proporcionar uma experiência completa aos amantes de jogos que desejam encontrar e comprar seus títulos favoritos de forma rápida e conveniente. Prepare-se para uma jornada emocionante no mundo dos games!
+Bem-vindo ao ePlay, sua loja virtual exclusiva para explorar e adquirir os melhores jogos para PC, PS5, Nintendo Switch e Xbox! Este projeto foi desenvolvido como parte do curso de Desenvolvedor Fullstack da EBAC (Escola Britânica de Artes Criativas), com o intuito de proporcionar uma experiência completa aos amantes de jogos que desejam encontrar e comprar seus títulos favoritos de forma rápida e conveniente. Prepare-se para uma jornada emocionante no mundo dos games!
 
 ---
 
